@@ -1,9 +1,9 @@
 # Auction-Server
 
-Client-Server model application
+## Client-Server model application
 
-javac Server.java -> compile Server
-javac Begin.java -> compile client
+  # javac Server.java -> compile Server
+  # javac Begin.java -> compile client
 
-java Server -> run Server
-java Client -> run Client
+  # java Server -> run Server
+  # java Client -> run Client
