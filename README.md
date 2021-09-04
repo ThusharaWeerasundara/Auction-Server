@@ -8,4 +8,4 @@
 #
 * Execution
   * java Server -> run Server
-  * java Client -> run Client
+  * java Begin -> run Client
